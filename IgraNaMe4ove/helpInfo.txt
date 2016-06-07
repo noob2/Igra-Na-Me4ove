@@ -1,0 +1,12 @@
+﻿Arrow keys - moves the character, in the chosen direction
+
+S - you enter a battle mode, in which u can select target in range,
+when u press S.
+
+A - attacks the selected target.
+
+I - opens the inventory.
+
+C - collect item, if you are over item
+
+Press any key to go back..

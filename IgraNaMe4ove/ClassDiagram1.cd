@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IgraNaMe4ove.Attributes.CommandAttribute" Collapsed="true">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Attributes\CommandAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgraNaMe4ove.Attributes.EnemyAttribute" Collapsed="true">
+    <Position X="22.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Attributes\EnemyAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgraNaMe4ove.Attributes.ItemAttribute" Collapsed="true">
+    <Position X="20.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Attributes\ItemAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgraNaMe4ove.Engine.Commands.CollectItemCommand" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\Commands\CollectItemCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgraNaMe4ove.Engine.Commands.Command" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\Commands\Command.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgraNaMe4ove.Engine.Commands.ExecuteHelpCommand" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\Commands\ExecuteHelpCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgraNaMe4ove.Engine.Commands.MarkTargetAndAttackCommand" Collapsed="true">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\Commands\MarkTargetAndAttackCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgraNaMe4ove.Engine.Commands.MoveDownCommand" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\Commands\MoveDownCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgraNaMe4ove.Engine.Commands.MoveLeftCommand" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\Commands\MoveLeftCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgraNaMe4ove.Engine.Commands.MoveRightCommand" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\Commands\MoveRightCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgraNaMe4ove.Engine.Commands.MoveUpCommand" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\Commands\MoveUpComand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgraNaMe4ove.Engine.Commands.OpenInventoryCommand" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\Commands\OpenInventoryCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgraNaMe4ove.Engine.Constants" Collapsed="true">
+    <Position X="20.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBA=</HashCode>
+      <FileName>Engine\Constants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgraNaMe4ove.Engine.GameEngine" Collapsed="true">
+    <Position X="24" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAJAAACRAQAAAACAAAIAoAQAACBEDAAACEAACBACI=</HashCode>
+      <FileName>Engine\GameEngine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgraNaMe4ove.Engine.MapInitalizer" Collapsed="true">
+    <Position X="18.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAGABAAAAAAACAAAAABBAAAAAAAAQAAAE=</HashCode>
+      <FileName>Engine\MapInitalizer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgraNaMe4ove.Engine.Factories.CommandFactory" Collapsed="true">
+    <Position X="22.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\Factories\CommandFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgraNaMe4ove.Exceptions.CollisionException" Collapsed="true">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\CollisionException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgraNaMe4ove.Exceptions.InvalidKeyException" Collapsed="true">
+    <Position X="18.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\InvalidKeyException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgraNaMe4ove.Exceptions.ItemNotFoundException" Collapsed="true">
+    <Position X="22.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\ItemNotFoundException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgraNaMe4ove.Exceptions.ObjectOutOfMapException" Collapsed="true">
+    <Position X="20.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\ObjectOutOfMapException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgraNaMe4ove.GameObjects.Characters.Character" Collapsed="true">
+    <Position X="14" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAACAQMAAAACABAAAAAEAAAAIAAAAACAAAAMgAAACg=</HashCode>
+      <FileName>GameObjects\characters\Character.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="IgraNaMe4ove.GameObjects.Enemies.Dragon" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAACAAAAAIAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Enemies\Dragon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgraNaMe4ove.GameObjects.Enemies.Enemy" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAMAAAACAAAAAAAEAAgAIAAAAAAAAAAEAAAAAg=</HashCode>
+      <FileName>GameObjects\Enemies\Enemy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="IgraNaMe4ove.GameObjects.Enemies.Ork" Collapsed="true">
+    <Position X="2.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBAAAAAAAAABAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Enemies\Ork.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgraNaMe4ove.GameObjects.Enemies.Wolf" Collapsed="true">
+    <Position X="5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAQAAgAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Enemies\Wolf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgraNaMe4ove.GameObjects.GameObject" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAABAACAA=</HashCode>
+      <FileName>GameObjects\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgraNaMe4ove.GameObjects.Wall" Collapsed="true">
+    <Position X="16.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Wall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgraNaMe4ove.GameObjects.Items.Dopamine" Collapsed="true">
+    <Position X="7.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAACAACAAAAAAAAAAAABAAAEAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Items\Dopamine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgraNaMe4ove.GameObjects.Items.HealthPotion" Collapsed="true">
+    <Position X="9.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAgQAAAAAoAAAAA=</HashCode>
+      <FileName>GameObjects\Items\HealthPotion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgraNaMe4ove.GameObjects.Items.Item" Collapsed="true">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAABAAACAQAABAAACAEAAAgBAAAAAAAACAAA=</HashCode>
+      <FileName>GameObjects\Items\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgraNaMe4ove.GameObjects.Items.ManaPotion" Collapsed="true">
+    <Position X="11.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAABABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\Items\ManaPotion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgraNaMe4ove.Program" Collapsed="true">
+    <Position X="22.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgraNaMe4ove.UserInterface.ConsoleInputHandler" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UserInterface\ConsoleInputHandler.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="IgraNaMe4ove.UserInterface.ConsoleRenderer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAABBAAAA=</HashCode>
+      <FileName>UserInterface\ConsoleRenderer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="IgraNaMe4ove.UserInterface.KeyboardController" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>UserInterface\KeyboardController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Struct Name="IgraNaMe4ove.Position" Collapsed="true">
+    <Position X="18.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Position.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="IgraNaMe4ove.Interfaces.IChampionAttackable" Collapsed="true">
+    <Position X="18.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IChampionAttackable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IgraNaMe4ove.Interfaces.ICollect" Collapsed="true">
+    <Position X="20.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Interfaces\ICollect.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IgraNaMe4ove.Interfaces.IController" Collapsed="true">
+    <Position X="22.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IgraNaMe4ove.Interfaces.IDestroyable" Collapsed="true">
+    <Position X="24" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IDestroyable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IgraNaMe4ove.Interfaces.IEnemyAttackable" Collapsed="true">
+    <Position X="18.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IEnemyAttackable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IgraNaMe4ove.Interfaces.IInputHandler" Collapsed="true">
+    <Position X="20.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IInputHandler.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IgraNaMe4ove.Interfaces.IMoveable" Collapsed="true">
+    <Position X="22.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IMovable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IgraNaMe4ove.Interfaces.IRenderer" Collapsed="true">
+    <Position X="24" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAABBAAAA=</HashCode>
+      <FileName>Interfaces\IRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="IgraNaMe4ove.GameObjects.Characters.CharacterRace" Collapsed="true">
+    <Position X="18.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAgAAAAAgAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>GameObjects\characters\CharacterRace.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
