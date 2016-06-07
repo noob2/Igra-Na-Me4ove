@@ -1,6 +1,6 @@
-﻿Arrow keys - moves the character, in the chosen direction
+﻿Arrows - moves the character, in the chosen dorection
 
-S - you enter a battle mode, in which u can select target in range,
+S - you enter a battle mode, in which u can mark target in range,
 when u press S.
 
 A - attacks the selected target.
